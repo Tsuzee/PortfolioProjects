@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ft2_01.jpg</Source>
+      <Name>ft2_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_01.xnb</Output>
+      <Time>2014-10-10T11:31:08.40625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Down1.png</Source>
+      <Name>Down1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down1.xnb</Output>
+      <Time>2014-10-10T11:33:42.8378906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_02.jpg</Source>
+      <Name>ft2_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_02.xnb</Output>
+      <Time>2014-10-10T11:52:56.0732421-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_03.jpg</Source>
+      <Name>ft2_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_03.xnb</Output>
+      <Time>2014-10-10T11:52:56.0761718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_04.jpg</Source>
+      <Name>ft2_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_04.xnb</Output>
+      <Time>2014-10-10T11:52:56.0791015-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_05.jpg</Source>
+      <Name>ft2_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_05.xnb</Output>
+      <Time>2014-10-10T11:52:56.0810546-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_06.jpg</Source>
+      <Name>ft2_06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_06.xnb</Output>
+      <Time>2014-10-10T11:52:56.0839843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_07.jpg</Source>
+      <Name>ft2_07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_07.xnb</Output>
+      <Time>2014-10-10T11:52:56.086914-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_08.jpg</Source>
+      <Name>ft2_08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_08.xnb</Output>
+      <Time>2014-10-10T11:52:56.0888671-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_09.jpg</Source>
+      <Name>ft2_09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_09.xnb</Output>
+      <Time>2014-10-10T11:52:56.0908203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_10.jpg</Source>
+      <Name>ft2_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_10.xnb</Output>
+      <Time>2014-10-10T11:52:56.09375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_11.jpg</Source>
+      <Name>ft2_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_11.xnb</Output>
+      <Time>2014-10-10T11:52:56.0966796-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_12.jpg</Source>
+      <Name>ft2_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_12.xnb</Output>
+      <Time>2014-10-10T11:52:56.0986328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_13.jpg</Source>
+      <Name>ft2_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_13.xnb</Output>
+      <Time>2014-10-10T11:52:56.1005859-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_14.jpg</Source>
+      <Name>ft2_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_14.xnb</Output>
+      <Time>2014-10-10T11:52:56.102539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_15.jpg</Source>
+      <Name>ft2_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_15.xnb</Output>
+      <Time>2014-10-10T11:52:56.1035156-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_16.jpg</Source>
+      <Name>ft2_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_16.xnb</Output>
+      <Time>2014-10-10T11:52:56.1054687-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_17.jpg</Source>
+      <Name>ft2_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_17.xnb</Output>
+      <Time>2014-10-10T11:52:56.1064453-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_18.jpg</Source>
+      <Name>ft2_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_18.xnb</Output>
+      <Time>2014-10-10T11:52:56.1083984-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_19.jpg</Source>
+      <Name>ft2_19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_19.xnb</Output>
+      <Time>2014-10-10T11:52:56.1103515-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_20.jpg</Source>
+      <Name>ft2_20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_20.xnb</Output>
+      <Time>2014-10-10T11:52:56.1123046-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_21.jpg</Source>
+      <Name>ft2_21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_21.xnb</Output>
+      <Time>2014-10-10T11:52:56.1132812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_22.jpg</Source>
+      <Name>ft2_22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_22.xnb</Output>
+      <Time>2014-10-10T11:52:56.1152343-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_23.jpg</Source>
+      <Name>ft2_23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_23.xnb</Output>
+      <Time>2014-10-10T11:52:56.1171875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_24.jpg</Source>
+      <Name>ft2_24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_24.xnb</Output>
+      <Time>2014-10-10T11:52:56.118164-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ft2_25.jpg</Source>
+      <Name>ft2_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_25.xnb</Output>
+      <Time>2014-10-10T11:52:56.1201171-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Down2.png</Source>
+      <Name>Down2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down2.xnb</Output>
+      <Time>2014-10-10T12:39:24.0185546-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Down3.png</Source>
+      <Name>Down3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down3.xnb</Output>
+      <Time>2014-10-10T12:39:24.0214843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem1.png</Source>
+      <Name>Gem1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem1.xnb</Output>
+      <Time>2014-10-10T12:39:33.8125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem10.png</Source>
+      <Name>Gem10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem10.xnb</Output>
+      <Time>2014-10-10T12:39:33.8330078-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem2.png</Source>
+      <Name>Gem2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem2.xnb</Output>
+      <Time>2014-10-10T12:39:33.8144531-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem3.png</Source>
+      <Name>Gem3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem3.xnb</Output>
+      <Time>2014-10-10T12:39:33.8173828-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem4.png</Source>
+      <Name>Gem4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem4.xnb</Output>
+      <Time>2014-10-10T12:39:33.8193359-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem5.png</Source>
+      <Name>Gem5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem5.xnb</Output>
+      <Time>2014-10-10T12:39:33.821289-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem6.png</Source>
+      <Name>Gem6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem6.xnb</Output>
+      <Time>2014-10-10T12:39:33.8232421-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem7.png</Source>
+      <Name>Gem7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem7.xnb</Output>
+      <Time>2014-10-10T12:39:33.8261718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem8.png</Source>
+      <Name>Gem8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem8.xnb</Output>
+      <Time>2014-10-10T12:39:33.828125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem9.png</Source>
+      <Name>Gem9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem9.xnb</Output>
+      <Time>2014-10-10T12:39:33.8310546-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Left1.png</Source>
+      <Name>Left1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left1.xnb</Output>
+      <Time>2014-10-10T12:39:33.8359375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Left2.png</Source>
+      <Name>Left2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left2.xnb</Output>
+      <Time>2014-10-10T12:39:33.8378906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Left3.png</Source>
+      <Name>Left3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left3.xnb</Output>
+      <Time>2014-10-10T12:39:33.8398437-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Right1.png</Source>
+      <Name>Right1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right1.xnb</Output>
+      <Time>2014-10-10T12:39:33.8408203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Right2.png</Source>
+      <Name>Right2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right2.xnb</Output>
+      <Time>2014-10-10T12:39:33.8417968-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Right3.png</Source>
+      <Name>Right3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right3.xnb</Output>
+      <Time>2014-10-10T12:39:33.84375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Up1.png</Source>
+      <Name>Up1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up1.xnb</Output>
+      <Time>2014-10-10T19:34:17.1503906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Up2.png</Source>
+      <Name>Up2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up2.xnb</Output>
+      <Time>2014-10-10T19:34:17.1796875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Up3.png</Source>
+      <Name>Up3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up3.xnb</Output>
+      <Time>2014-10-10T19:34:17.2128906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2014-10-10T13:16:58.7890625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1Bold.spritefont</Source>
+      <Name>Font1Bold</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1Bold.xnb</Output>
+      <Time>2014-10-14T18:41:24.0698513-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D029F8BF-C780-4611-97A4-FD9F81C7CFE1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\Old Projects\GemCollector\GemCollector\GemCollectorContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\Old Projects\GemCollector\GemCollector\GemCollector\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\Old Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-29T17:45:28.1445806-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,164 @@
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\GemCollector.exe
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\GemCollector.pdb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.csprojResolveAssemblyReference.cache
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.exe
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.pdb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_01.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down1.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_02.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_03.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_04.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_05.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_06.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_07.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_08.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_09.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_10.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_11.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_12.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_13.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_14.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_15.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_16.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_17.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_18.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_19.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_20.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_21.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_22.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_23.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_24.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_25.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down2.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down3.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem1.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem10.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem2.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem3.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem4.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem5.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem6.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem7.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem8.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem9.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left1.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left2.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left3.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right1.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right2.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right3.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up1.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up2.xnb
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up3.xnb
+C:\Users\Darkelf\Documents\Visual Studio 2013\Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1.xnb
+Z:\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.csprojResolveAssemblyReference.cache
+Z:\GemCollector\GemCollector\GemCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.exe
+Z:\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.pdb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_01.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down1.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_02.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_03.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_04.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_05.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_06.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_07.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_08.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_09.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_10.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_11.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_12.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_13.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_14.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_15.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_16.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_17.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_18.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_19.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_20.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_21.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_22.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_23.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_24.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_25.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down2.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down3.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem1.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem10.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem2.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem3.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem4.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem5.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem6.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem7.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem8.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem9.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left1.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left2.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left3.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right1.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right2.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right3.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up1.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up2.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up3.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1.xnb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\GemCollector.exe
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\GemCollector.pdb
+Z:\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1Bold.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_01.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down1.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_02.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_03.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_04.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_05.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_06.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_07.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_08.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_09.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_10.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_11.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_12.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_13.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_14.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_15.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_16.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_17.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_18.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_19.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_20.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_21.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_22.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_23.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_24.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\ft2_25.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down2.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Down3.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem1.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem10.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem2.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem3.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem4.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem5.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem6.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem7.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem8.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Gem9.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left1.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left2.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Left3.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right1.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right2.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Right3.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up1.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up2.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Up3.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\Content\Font1Bold.xnb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\GemCollector.exe
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\bin\x86\Debug\GemCollector.pdb
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.csprojResolveAssemblyReference.cache
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.exe
+Z:\Old Projects\GemCollector\GemCollector\GemCollector\obj\x86\Debug\GemCollector.pdb

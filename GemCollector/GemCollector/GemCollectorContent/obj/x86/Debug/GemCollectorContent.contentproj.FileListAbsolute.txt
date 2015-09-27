@@ -1,0 +1,3 @@
+c:\users\darkelf\documents\visual studio 2013\Projects\GemCollector\GemCollector\GemCollectorContent\obj\x86\Debug\GemCollectorContent.contentprojResolveAssemblyReference.cache
+Z:\GemCollector\GemCollector\GemCollectorContent\obj\x86\Debug\GemCollectorContent.contentprojResolveAssemblyReference.cache
+Z:\Old Projects\GemCollector\GemCollector\GemCollectorContent\obj\x86\Debug\GemCollectorContent.contentprojResolveAssemblyReference.cache

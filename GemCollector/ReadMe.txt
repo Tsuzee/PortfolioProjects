@@ -1,0 +1,2 @@
+This is a "collection" game that I created for my Game Development and Algorithmic Problem Solving II class.
+You play as a character trying to collect gems before the time runs out. It was developed in C# and requires XNA to run.
