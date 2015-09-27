@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AnimaticScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameOverScript.cs" Line="37" Column="16" />
+      <File FileName="Assets\Scripts\TitleScript.cs" Line="50" Column="39" />
+      <File FileName="Assets\Scripts\HelpScript.cs" Line="6" Column="15" />
+      <File FileName="Assets\Scripts\AnimaticScript.cs" Line="33" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
