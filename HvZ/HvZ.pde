@@ -1,4 +1,4 @@
-import ddf.minim.*;
+//import ddf.minim.*;
 
 //Darren Farr
 //IMD TR 11:00
@@ -8,9 +8,9 @@ import ddf.minim.*;
 Zombie myZom;
 Human myHum;
 Obstacle ob;
-//SoundCipher sc;
-Minim minim;
-AudioPlayer player;
+SoundCipher sc;
+//Minim minim;
+//AudioPlayer player;
 
 ArrayList<PImage> zomImgs;
 ArrayList<Zombie> Zoms;
@@ -40,10 +40,10 @@ void setup()
   size(1000, 700, P2D);
   background(128);
   import arb.soundcipher.*;
-  //sc = new SoundCipher(this);
+  sc = new SoundCipher(this);
   //sound
-  minim = new Minim(this);
-  player = minim.loadFile("yay.mp3");
+  //minim = new Minim(this);
+  //player = minim.loadFile("Yay.mp3");
     
   //load in assets
   loadAssets();
@@ -92,15 +92,15 @@ void draw()
   
   if(soundOn && !playing)
   {
-    //sc.playMidiFile("Music.mid", 220);
+    sc.playMidiFile("Music.mid", 220);
     playing = true;
-    player.play();
+    //player.play();
   }
   else if(!soundOn && playing)
   {
-    //sc.stop();
+    sc.stop();
     playing = false;
-    player.pause();
+    //player.pause();
   }
   
   //display background image
