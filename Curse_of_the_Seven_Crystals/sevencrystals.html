@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<link href='https://fonts.googleapis.com/css?family=Amaranth|Gabriela' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="projectstyle.css">
+	<style>
+	/*font-family: 'Gabriela', serif;
+	  font-family: 'Amaranth', sans-serif;
+	*/
+		body{background-color:#325C74;}
+		h1{
+			color:#02D784;
+			font-family: 'Gabriela', serif;
+			font-size:50px;
+			text-align:center;
+			margin-top:0px;
+		}
+		div{
+			display:block;
+			width:64%;
+			margin-left:auto;
+			margin-right:auto;
+		}
+		canvas{border:1px solid gray;}
+		#audioControls{display:none;}
+		button{
+			background-color: rgba(128, 128, 128, 0.3);
+
+		}
+		button{
+			font-family: 'Amaranth', sans-serif;
+			font-size: 24pt;
+		}
+		#button1{
+			border-radius: 15px;
+			position: absolute;
+			top: 600px;
+			left: 910px;
+			z-index: 1;
+		}
+		#button2{
+			border-radius: 15px;
+			position: absolute;
+			top: 670px;
+			left: 910px;
+			z-index: 1;
+		}
+		#button3{
+			border-radius: 15px;
+			position: absolute;
+			top: 670px;
+			left: 910px;
+			z-index: 1;
+		}
+		#button4{
+			border-radius: 15px;
+			position: absolute;
+			top: 840px;
+			left: 1455px;
+			z-index: 1;
+		}
+		#button5{
+			border-radius: 15px;
+			position: absolute;
+			top: 840px;
+			left: 910px;
+			z-index: 1;
+		}
+		button:hover{
+			background-color: #fff;
+		}
+		button:focus{
+			outline: 0;
+		}
+		p{
+			font-size: 30px;
+		}
+		
+	</style>
+	<title>Curse of the Seven Crystals</title>
+</head>
+<script>
+window.onkeydown = function(e) { 
+  return !(e.keyCode == 32);
+};
+</script>
+<body>
+
+	<h1>Curse of the Seven Crystals</h1>
+	<div>
+		<canvas>
+			Your browser doesn't support this cool project!
+		</canvas>
+		<button id="button1">Start</button>
+		<button id="button2">Instructions</button>
+		<button id="button3">Back</button>
+		<button id="button4">Begin</button>
+		<button id="button5">Try Again</button>
+	</div>
+	
+	<section id="audioControls">
+		<audio id="bgAudio" controls loop></audio>
+		<audio id="effectAudio" controls></audio>
+	</section><br><br>
+	<p>This was a three week solo project working with javascript and canvas. It works best<br>
+	in Chrome. I wanted to make an old school style game based around the simple elements from <br>
+	Zelda. The class assignment was simple, make a game or experience. The code will be posted <br>
+	on GitHub after the project is due on Monday the 26th of October 2015.<br>
+	</p>
+	
+	
+	
+	<script src='coscjs/loader.js'></script>
+	<script src='coscjs/utilities.js'></script>
+	<script src='coscjs/emitter.js'></script>
+	<script src='coscjs/enemy.js'></script>
+	<script src='coscjs/levels.js'></script>
+	<script src='coscjs/images.js'></script>
+	<script src='coscjs/keys.js'></script>
+	<script src='coscjs/sound.js'></script>
+	<script src='coscjs/levelLoader.js'></script>
+	<script src='coscjs/drawer.js'></script>
+	<script src='coscjs/main.js'></script>
+	 
+	
+</body>
+</html>
