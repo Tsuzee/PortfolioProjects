@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{495e9d5a-56db-4080-9bd3-3e0180ca9ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shared Source Files">
+      <UniqueIdentifier>{6c51eceb-aa55-4e08-bdc1-3aa68e13c826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shared Header Files">
+      <UniqueIdentifier>{03bdcba3-0992-479a-84dc-db1273c97274}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DXCore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SharedCode\Camera.cpp">
+      <Filter>Shared Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SharedCode\Entity.cpp">
+      <Filter>Shared Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SharedCode\Player.cpp">
+      <Filter>Shared Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SharedCode\SceneManager.cpp">
+      <Filter>Shared Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PInput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DXCore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Camera.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Entity.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Lights.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\PInput.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Player.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Scene.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\SceneManager.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\SharedMath.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Transform.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SharedCode\Vertex.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Shaders\BlendPixelShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\BloomCombinePixelShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\BloomExtractPixelShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\GaussianBlurPixelShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\ParticlePS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\ParticleVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\PixelShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\PixelShaderNormalMap.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\PixelShaderNormalMapBlend.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\PostProcessVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\SkyPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\SkyVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\VertexShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Shaders\VertexShaderNormalMap.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

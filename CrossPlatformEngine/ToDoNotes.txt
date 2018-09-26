@@ -1,0 +1,4 @@
+ToDo
+
+Look into wrapping device and context in void* for scene builder to abstract it to the platform layer.
+
